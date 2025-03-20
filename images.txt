@@ -1,2 +1,2 @@
 nginx
-docker pull node:20.19.0
+node:20.19.0
