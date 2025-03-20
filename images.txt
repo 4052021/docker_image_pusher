@@ -1,2 +1,3 @@
 nginx
 node:20.19.0
+cooderl/wewe-rss-sqlite:latest
