@@ -1,2 +1,3 @@
 docker pull node:18
 docker pull node:latest
+docker pull node:20.19.0
